@@ -1,0 +1,8 @@
+div{
+    background-color: chocolate;
+    border: 8px solid purple;
+    border-radius: 9px;
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+}
